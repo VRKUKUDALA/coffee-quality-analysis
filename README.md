@@ -54,14 +54,26 @@ The primary goal of this project is to explore and answer the following question
 ---
 
 ## Visual Analysis
-This project includes interactive Power BI dashboards that explore:
+Below are key Power BI visuals used to explore and explain coffee quality drivers.
 
-- Overall quality distribution and score drivers
-- Regional performance comparison
-- Processing method impact on quality
-- Variable interaction analysis using decomposition trees
+### Overview Dashboard
+![Overview](screenshots/overview.png)
 
-(Preview images of the dashboards are available in the `screenshots` folder.)
+### Key Influencers Analysis
+![Key Influencers](screenshots/key_influencers.png)
+
+### Processing Methods vs Quality
+![Processing Methods](screenshots/processing_methods.png)
+
+### Regional and Altitude Analysis
+![Regional Analysis](screenshots/regional_analysis.png)
+
+### Defects Impact – Scatter Plot Analysis
+![Defects Impact Scatter Plot](screenshots/defects_impact_scatter_plot.png)
+
+### Decomposition Tree – Variable Interaction
+![Decomposition Tree](screenshots/variables_decomposition_tree.png)
+
 
 ---
 
